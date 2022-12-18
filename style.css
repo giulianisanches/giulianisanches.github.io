@@ -1,8 +1,8 @@
 /* Style Settings */
 @import url('https://fonts.googleapis.com/css?family=Karla:400,700&display=swap');
 :root {
-    --bgColor: #2E3035;
-    --accentColor: #43E660;
+    --bgColor: #282a36;
+    --accentColor: #50fa7b;
     --font: 'Inter', sans-serif;
 }
 
